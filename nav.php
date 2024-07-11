@@ -38,7 +38,7 @@
                             Mata Kuliah
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="?page=mataKuliah">Data Mata Kuliah</a></li>
+                            <li><a class="dropdown-item" href="?page=matkul">Data Mata Kuliah</a></li>
                             <li><a class="dropdown-item" href="?page=matkulAdd">Tambah Data</a></li>
                             <li><a class="dropdown-item" href="matkul/print.php" target="_blank">Cetak Data</a></li>
                         </ul>
@@ -48,9 +48,9 @@
                             Link Terkait
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Website UNISKA</a></li>
-                            <li><a class="dropdown-item" href="#">Sistem Informasi Akademik</a></li>
-                            <li><a class="dropdown-item" href="#">Pendaftaran Mahasiswa Baru</a></li>
+                            <li><a class="dropdown-item" href="https://uniska-bjm.ac.id/" target="_blank">Website UNISKA</a></li>
+                            <li><a class="dropdown-item" href="https://sia.uniska-bjm.ac.id/" target="_blank" >Sistem Informasi Akademik</a></li>
+                            <li><a class="dropdown-item" href="https://fti.uniska-bjm.ac.id/pmb/" target="_blank" >Pendaftaran Mahasiswa Baru</a></li>
                         </ul>
                     </li>
                 </ul>

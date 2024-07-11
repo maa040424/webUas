@@ -40,7 +40,7 @@ $jumlahMatkul = $con->query('select count(*) from matkul')->fetch_array()[0];
         <div class="card border-default mb-3">
             <div class="card-header text-center text-secondary"><strong>Foto</strong></div>
             <div class="card-body text-center">
-                <img src="assets/img/foto-profile.png" alt="Aqueit" width="150px" class="rounded-circle">
+                <img src="assets/img/formal.jpg" alt="Aqueit" width="150px" class="rounded-circle">
             </div>
         </div>
     </div>
