@@ -1,5 +1,3 @@
-
-<h1>te/s</h1>
 <h4>Tambah Data Mahasiswa</h4>
 <a href="?page=mahasiswaAdd" class="btn btn-primary mb-4">Tambah Data</a>
 <a href="mahasiswa/print.php" class="btn btn-warning mb-4" target="_blank">Cetak</a>
